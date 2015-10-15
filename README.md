@@ -10,7 +10,7 @@ Translucent end made from old plastic bags. (Not laser cut)<br>
 Prism laser cut from extruded acrylic in 4 layers and stuck together.
 <br>
 The white 3-D printed box is built with exact dimensions to house the bread-board. The cardboard box was built as a 
-prototype and a precursor for 3D printing. They have the same dimensions.
+prototype and a precursor for 3D printing. They have the same dimensions. The lid and the base for the 3-D printed box has been made separately since the tray did not have enough width to fit both together.
 
 
 https://youtu.be/-RmrnhmrLhY
